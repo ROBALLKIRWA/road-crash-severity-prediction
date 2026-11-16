@@ -1,6 +1,6 @@
-## Road Crash Severity Prediction
+# Road Crash Severity Prediction
 
-# Project Overview
+##Project Overview
 
 This project explores road traffic crash data and develops
 machine-learning models to predict the severity of a road crash based on
@@ -11,19 +11,20 @@ evaluate how well machine-learning techniques can classify the severity
 level of a crash. The results may support road-safety analysis and help
 stakeholders understand factors associated with more serious crashes.
 
-Objectives
+## Objectives
 - Understand and explore the road crash dataset.
 - Clean and prepare the data for analysis.
 - Explore factors and patterns associated with crash severity.
 - Build and compare suitable classification models.
 - Evaluate model performance using appropriate classification metrics.
 - Summarize findings and provide recommendations.
-Project Structure
-road_crash_severity_prediction
+## Project Structure
 
+road_crash_severity_prediction
 The notebook contains the project workflow, including data preparation,
 exploratory data analysis, model development, and evaluation.
-Tools and Technologies
+## Tools and Technologies
+
 The project may use the following Python tools:
 - Python -- programming language
 - Jupyter Notebook -- interactive development environment
