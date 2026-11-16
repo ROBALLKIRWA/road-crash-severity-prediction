@@ -1,5 +1,7 @@
-Road Crash Severity Prediction
-Project Overview
+## Road Crash Severity Prediction
+
+# Project Overview
+
 This project explores road traffic crash data and develops
 machine-learning models to predict the severity of a road crash based on
 available crash-related information.
