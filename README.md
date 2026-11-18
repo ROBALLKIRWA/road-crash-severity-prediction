@@ -96,22 +96,29 @@ Results
 Record the final results from the notebook here.
 
   Model           Accuracy   Precision   Recall   F1-score
+  
   [Model 1]        [ ]       [ ]    [ ]      [ ]
+  
 [Model 2]        [ ]       [ ]    [ ]      [ ]
+
 [Model 3]        [ ]       [ ]    [ ]      [ ]
 
-Do not fill in these values until the models have been run and
-evaluated. For multi-class classification, state whether the reported
-precision, recall, and F1-score use macro, micro, or weighted averaging.
 Key Findings
-Add the main findings from the notebook, for example:
+
 - Which crash characteristics appear most associated with severity?
+- 
 - Which severity class is most common?
+- 
 - Which model performed best, and according to which metric?
+- 
 - Which classes were most difficult for the model to distinguish?
+- 
 Only report findings supported by the analysis.
+
 Limitations
+
 Possible limitations to consider include:
+
 - Missing or inaccurate crash records.
 - Imbalanced severity categories.
 - Features that are unavailable at the time a prediction would need to
@@ -133,6 +140,7 @@ Predictions from this project should be treated as analytical estimates,
 not definitive judgments about individual crashes. They should not
 replace official crash investigations, professional road-safety
 assessments, or emergency-response decisions.
+
 Author
 Name: [Shadrack kirwa]
 Project: Road Crash Severity Prediction
